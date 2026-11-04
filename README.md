@@ -90,4 +90,4 @@ Modèles réalisés avec [Modelio](https://www.modelio.org/).
 ## Auteur
 
 KOTSADI DOUMASSOU ALLANE DJAMEL 22U2025
-Enseignant : Valéry MONTHE.
+Enseignant : Dr Valéry MONTHE.
